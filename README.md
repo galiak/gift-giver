@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Practicing TDD with enzyme & jest.
 
 ## Available Scripts
 
@@ -20,3 +21,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run test -- --coverage`
 
 Runs all the tests and generates a formatted coverage reort.
+
+
