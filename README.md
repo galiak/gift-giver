@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Bootstrap framework](https://getbootstrap.com/docs/3.4/).  
 Practicing TDD with enzyme & jest.
 
 ## Available Scripts
